@@ -15,5 +15,8 @@
 			"Name": "DatasmithImporter",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
