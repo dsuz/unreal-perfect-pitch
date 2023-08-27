@@ -34,6 +34,7 @@ BGM・効果音
 
 その他
 
+- フォント - [自家製 Rounded M+](http://jikasei.me/font/rounded-mplus/about.html)
 - [Dynamic Volumetric Sky](https://www.unrealengine.com/marketplace/product/dynamic-volumetric-sky)
 - ロゴ作成 - [flamingtext](https://flamingtext.jp/)
 
