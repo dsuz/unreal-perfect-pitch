@@ -1,7 +1,11 @@
 # Unreal パーフェクト ピッチ（第20回UE5ぷちコン参加作品）
 
+## 動画
 
-[![動画へのリンク](https://i.ytimg.com/vi/DnecKArQzgg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBTmVNKLqc-C59PDbVC2POk61gg3g)](https://www.youtube.com/watch?v=DnecKArQzgg)
+- [「Unreal パーフェクトピッチ」第20回UE5ぷちコン参加作品](https://www.youtube.com/watch?v=DnecKArQzgg)
+- [Unreal パーフェクトピッチ 開発過程](https://www.youtube.com/watch?v=1aYY0A2t9kg)
+
+## アセット・素材・ツール等
 
 有料のアセット・素材は使っていませんが、ダウンロードしたアセット・素材はリポジトリに含まれていません。以下の素材あるいは素材生成サイト・ツールを使っています。
 
