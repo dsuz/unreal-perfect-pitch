@@ -27,6 +27,7 @@
 - いらすとや
   - [野球場](https://www.irasutoya.com/2017/11/blog-post_720.html)
   - [野球ボール](https://www.irasutoya.com/2016/04/blog-post_661.html)
+- [歯車のアイコン](https://www.bezybox.net/category/others/haguruma/)
 
 
 BGM・効果音
